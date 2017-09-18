@@ -1,0 +1,7 @@
+body {background-color: gold;}
+p {color: orange;
+   border: 1px solid black;
+   padding: 30px;
+}
+h1 {color: red;
+    font-size: 300%;
